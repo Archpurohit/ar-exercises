@@ -5,3 +5,4 @@ puts "Exercise 2"
 puts "----------"
 
 # Your code goes here ...
+puts "Number of stores: #{Store.count}"
